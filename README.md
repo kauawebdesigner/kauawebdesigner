@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kauadev886/kauadev886/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
