@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Techs</h3>
+<h3 align="left">Técnologias</h3>
 
 ###
 
