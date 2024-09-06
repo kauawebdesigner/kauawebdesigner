@@ -1,3 +1,3 @@
-## oi!! eu Sou o Kauã André 👋
+## Ola!! eu Sou o Kauã André 👋
 
 
